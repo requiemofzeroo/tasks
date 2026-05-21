@@ -15,7 +15,9 @@ third_number = int(input('Введите третье число: '))
 
 summa = (first_number + second_number + third_number)
 
-print(f'Результат: {summa}')
+proizvedenie = (first_number * second_number * third_number)
+
+print(f'Результат: {summa}, {proizvedenie}')
 
 ## Второе задание:
 
